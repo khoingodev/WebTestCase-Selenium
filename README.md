@@ -1,4 +1,4 @@
-# KTPM_08102026 - Bài tập Kiểm thử Phần mềm
+# Bài tập Kiểm thử Phần mềm
 
 > Bài tập môn **Kiểm thử Phần mềm (KTPM)** — Tự động hóa kiểm thử chức năng **Đăng nhập** trên hệ thống Văn phòng điện tử UTC bằng **Selenium WebDriver + Java + JUnit 5**.
 
